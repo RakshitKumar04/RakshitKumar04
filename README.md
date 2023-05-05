@@ -12,6 +12,8 @@
 #### Jax Frontend
 - [Mean](https://github.com/unifyai/ivy/pull/14172) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
 - [Conj](https://github.com/unifyai/ivy/pull/14541) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+- [Cumsum](https://github.com/unifyai/ivy/pull/14952) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+- [Comprod](https://github.com/unifyai/ivy/pull/14955) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
 - [Modf](https://github.com/unifyai/ivy/pull/14525) on [NumPy Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/8426)
 
 ### 👷 Check out my Projects

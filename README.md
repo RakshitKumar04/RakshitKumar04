@@ -8,6 +8,7 @@
 - [Frexp](https://github.com/unifyai/ivy/pull/11681) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
 - [Conj](https://github.com/unifyai/ivy/pull/13248) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
 - [Conjugate](https://github.com/unifyai/ivy/pull/14594) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
+- [Conj](https://github.com/unifyai/ivy/pull/15085) on [Instance Methods of NumPy Frontend](https://github.com/unifyai/ivy/issues/3607)
 
 #### Jax Frontend
 - [Mean](https://github.com/unifyai/ivy/pull/14172) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)

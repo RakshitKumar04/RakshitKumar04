@@ -1,7 +1,19 @@
 ### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
 
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKumar04&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
+
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/rakshit-kumar-0402/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white
+)](https://twitter.com/RakshitSharma04)
+<br />
 ### 🔨 My recent Pull Requests
 
+## IVY
 #### NumPy Frontend
 - [Floor](https://github.com/unifyai/ivy/pull/12948) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
 - [Modf](https://github.com/unifyai/ivy/pull/11680) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
@@ -17,7 +29,7 @@
 - [Comprod](https://github.com/unifyai/ivy/pull/14955) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
 - [Modf](https://github.com/unifyai/ivy/pull/14525) on [NumPy Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/8426)
 
-### 👷 Check out my Projects
+### 👨🏻‍💻 Check out my Projects
 
 - [Forest Fire Detection System](https://github.com/RakshitKumar04/Forest-Fire-Detection-System)<br>
   Early detecting forest ﬁres using IoT and deep learning algorithms.<br>

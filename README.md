@@ -14,9 +14,13 @@
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RakshitSharma04)
   
   <br />
-  
+    
 </div>
   
+---
+
+<br />
+
 ### 🔨 My recent Pull Requests
 
 ## IVY
@@ -36,6 +40,8 @@
 - [Nonzero](https://github.com/unifyai/ivy/pull/15384) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
 - [Ravel](https://github.com/unifyai/ivy/pull/15388) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
 - [Modf](https://github.com/unifyai/ivy/pull/14525) on [NumPy Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/8426)
+
+---
 
 ### 👨🏻‍💻 Check out my Projects
 

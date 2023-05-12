@@ -21,27 +21,32 @@
 
 <br />
 
-### 🔨 My recent Pull Requests
+## 🔨 My recent Pull Requests
 
-## IVY
-#### NumPy Frontend
-- [Floor](https://github.com/unifyai/ivy/pull/12948) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
-- [Modf](https://github.com/unifyai/ivy/pull/11680) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
-- [Frexp](https://github.com/unifyai/ivy/pull/11681) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
-- [Conj](https://github.com/unifyai/ivy/pull/13248) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
-- [Conjugate](https://github.com/unifyai/ivy/pull/14594) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
-- [Conj](https://github.com/unifyai/ivy/pull/15085) on [Instance Methods of NumPy Frontend](https://github.com/unifyai/ivy/issues/3607)
+- <a href="https://unify.ai/"> <img class="dark-light" width="10%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/281b1141-a321-4326-9cd3-edfe9ac1d8c0"> </a>
 
-#### Jax Frontend
-- [Mean](https://github.com/unifyai/ivy/pull/14172) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-- [Conj](https://github.com/unifyai/ivy/pull/14541) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-- [Cumsum](https://github.com/unifyai/ivy/pull/14952) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-- [Comprod](https://github.com/unifyai/ivy/pull/14955) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-- [Nonzero](https://github.com/unifyai/ivy/pull/15384) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-- [Ravel](https://github.com/unifyai/ivy/pull/15388) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-- [Modf](https://github.com/unifyai/ivy/pull/14525) on [NumPy Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/8426)
+  - NumPy Frontend
+    - [Floor](https://github.com/unifyai/ivy/pull/12948) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
+    - [Modf](https://github.com/unifyai/ivy/pull/11680) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
+    - [Frexp](https://github.com/unifyai/ivy/pull/11681) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
+    - [Conj](https://github.com/unifyai/ivy/pull/13248) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
+    - [Conjugate](https://github.com/unifyai/ivy/pull/14594) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)
+    - [Conj](https://github.com/unifyai/ivy/pull/15085) on [Instance Methods of NumPy Frontend](https://github.com/unifyai/ivy/issues/3607)
+
+  - Jax Frontend
+    - [Mean](https://github.com/unifyai/ivy/pull/14172) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Conj](https://github.com/unifyai/ivy/pull/14541) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Cumsum](https://github.com/unifyai/ivy/pull/14952) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Comprod](https://github.com/unifyai/ivy/pull/14955) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Nonzero](https://github.com/unifyai/ivy/pull/15384) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Ravel](https://github.com/unifyai/ivy/pull/15388) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Modf](https://github.com/unifyai/ivy/pull/14525) on [NumPy Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/8426)
+
+<br />
 
 ---
+
+<br />
 
 ### 👨🏻‍💻 Check out my Projects
 

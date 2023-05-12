@@ -1,19 +1,19 @@
 <div align="center">
   
-### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
-
-<br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKumar04&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
-
-<br />
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rakshit-kumar-0402/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white
-)](https://twitter.com/RakshitSharma04)
+  <img src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/d56fda23-ec56-4983-8468-17208e1a3dac" width="200" height="200">
   
-<br />
+  ### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
+
+  <br />
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKumar04&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
+
+  <br />
+
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-kumar-0402/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RakshitSharma04)
+  
+  <br />
   
 </div>
   

@@ -19,11 +19,12 @@
   
 ---
 
+
 <br />
 
-## 🔨 My recent Pull Requests
+## 🔨 My recent Pull Requests!
 
-- <a href="https://unify.ai/"> <img class="dark-light" width="10%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/281b1141-a321-4326-9cd3-edfe9ac1d8c0"> </a>
+- <h3>Ivy <img class="dark-light" style="height: 1.75em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/6ad0251d-7c56-49e4-9392-ae29ade89483"></h3>
 
   - NumPy Frontend
     - [Floor](https://github.com/unifyai/ivy/pull/12948) on [Mathematical functions of Numpy Frontend](https://github.com/unifyai/ivy/issues/1525)

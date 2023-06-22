@@ -37,7 +37,7 @@
   - Jax Frontend
     - [Mean](https://github.com/unifyai/ivy/pull/14172) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
     - [Conj](https://github.com/unifyai/ivy/pull/14541) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
-    - [Cumsum](https://github.com/unifyai/ivy/pull/14952) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
+    - [Cumsum](https://github.com/unifyai/ivy/pull/16652) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
     - [Comprod](https://github.com/unifyai/ivy/pull/14955) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
     - [Nonzero](https://github.com/unifyai/ivy/pull/15384) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
     - [Ravel](https://github.com/unifyai/ivy/pull/15388) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)

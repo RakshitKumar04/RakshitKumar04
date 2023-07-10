@@ -74,6 +74,9 @@
   There are currently two versions of the project: 1- CLI-calculator 2- GUI-calculator<br>
   This repository is open to all for contribution, especially at the time of Hactober Fest<br>
 
+- [gRPC](https://github.com/RakshitKumar04/gRPC)<br>
+  Illustrated the use of gRPC.<BR>
+
 - [IoT Smart Kitchen](https://github.com/RakshitKumar04/IoT_Smart_Kitchen)<br>
   A smart IoT device to make your kitchen more eﬃcient.<br>
   Sensor used: 1- Motion Sensor 2- Air Quality Sensor 3- Temperature & Humidity Sensor 4- Buzzer 5- Bulb<br>

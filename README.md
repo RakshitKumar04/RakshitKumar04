@@ -24,6 +24,12 @@
 
 ## 🔨 My recent Pull Requests!
 
+- <img class="dark-light" style="height: 2em" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/69c798f5-59c1-4038-ae83-977775951b78">
+  
+  - Community members [Profile](https://github.com/layer5io/layer5/pull/4496)
+  - Improved the [code quality](https://github.com/layer5io/layer5/pull/4495)
+  - Added [slider](https://github.com/layer5io/layer5/pull/4515) to the Proud Members
+
 - <h3>Ivy <img class="dark-light" style="height: 1.75em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/6ad0251d-7c56-49e4-9392-ae29ade89483"></h3>
 
   - NumPy Frontend
@@ -42,6 +48,9 @@
     - [Nonzero](https://github.com/unifyai/ivy/pull/15384) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
     - [Ravel](https://github.com/unifyai/ivy/pull/15388) on [Instance Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/3617)
     - [Modf](https://github.com/unifyai/ivy/pull/14525) on [NumPy Methods of JAX Frontend](https://github.com/unifyai/ivy/issues/8426)
+   
+  - Functional API
+    - [Modf](https://github.com/unifyai/ivy/pull/17629) on [Extended IVY functional API](https://github.com/unifyai/ivy/issues/3856)
 
 <br />
 

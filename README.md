@@ -24,11 +24,16 @@
 
 ## 🔨 My recent Pull Requests!
 
+- <h3>Kubernetes <img class="dark-light" style="height: 1.75em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/eae8e61d-f6c4-441a-884b-0867ae9f6792"></h3>
+
+  - Fixed [typos](https://github.com/kubernetes/website/pull/42439) in the documentation.
+    
+  <br>
+  
 - <img class="dark-light" style="height: 2em" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/69c798f5-59c1-4038-ae83-977775951b78">
   
   - Community members [Profile](https://github.com/layer5io/layer5/pull/4496)
   - Improved the [code quality](https://github.com/layer5io/layer5/pull/4495)
-  - Added [slider](https://github.com/layer5io/layer5/pull/4515) to the Proud Members
 
 - <h3>Ivy <img class="dark-light" style="height: 1.75em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/6ad0251d-7c56-49e4-9392-ae29ade89483"></h3>
 

@@ -4,11 +4,11 @@
   
   ### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
 
-  <br />
+  <!-- <br />
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKumar04&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKumar04&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
 
-  <br />
+  <br /> -->
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-kumar-0402/)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RakshitSharma04)
@@ -57,7 +57,7 @@
   - Functional API
     - [Modf](https://github.com/unifyai/ivy/pull/17629) on [Extended IVY functional API](https://github.com/unifyai/ivy/issues/3856)
 
-<br />
+<br/>
 
 ---
 

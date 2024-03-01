@@ -24,7 +24,7 @@
 
 ## 🔨 My recent Pull Requests!
 
-- <h3>Kubernetes <img class="dark-light" style="height: 1.75em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/eae8e61d-f6c4-441a-884b-0867ae9f6792"></h3>
+- <h3>Kubernetes <img class="dark-light" style="height: 1em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/eae8e61d-f6c4-441a-884b-0867ae9f6792"></h3>
 
   - Fixed [typos](https://github.com/kubernetes/website/pull/42439) in the documentation.
     
